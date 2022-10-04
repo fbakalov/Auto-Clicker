@@ -9,5 +9,3 @@ To use the program:
 -> if you whant to change the interval just type it in the textBox (the default is 100 milliseconds);
 -> then you can either press the button on the form itself or use the shortcut buttons 'O' to start and 'P' to stop (if you want to change the shortkeys from the Form1_Load() method);
 -> you can see the status of the program in the bottom left ("clicking with {interval} milliseconds interval" or "Not clicking");
-
-![interface](GitHub/Auto-Clicker/interfaceView.png)
